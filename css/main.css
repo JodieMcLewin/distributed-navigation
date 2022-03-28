@@ -19,7 +19,6 @@ body {
 img {
   width: 2rem;
   margin: .5rem;
-  padding: 1rem;
 }
 
 header {
@@ -36,7 +35,7 @@ header h1 {
 
 header img {
   order: -1;
-  margin-right: .5rem;
+  margin: .5rem;
 }
 
 header p {
