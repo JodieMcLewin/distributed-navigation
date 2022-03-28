@@ -1,0 +1,11 @@
+html {
+  border-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #fff;
+}
+*
+*::before,
+*::after {
+  box-sizing:inherit;
+}
